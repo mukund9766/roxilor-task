@@ -1,0 +1,11 @@
+/* src/styles/BarChart.css */
+
+h3 {
+    margin: 20px 0;
+  }
+  
+  canvas {
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
